@@ -25,3 +25,10 @@ The folder after the sorting operation.
 ![Screenshot 2024-02-06 162103](https://github.com/mashkoor098/File_Organizer_Software/assets/60177001/efb5871c-5338-427d-add4-e90bb8aa6968)
 
 
+:: Working of the Software Video ::
+
+
+
+https://github.com/mashkoor098/File_Organizer_Software/assets/60177001/26f80ddc-1044-40ee-97aa-af27d3c47588
+
+
